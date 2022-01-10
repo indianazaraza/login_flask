@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: arial;
+	background-image: url(../gallery/rainy_day.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h5{
+	width: 300px;
+	height: 100px;
+	margin: auto;
+	text-align: center;
+	font-size: 40px;
+	color: black;
+}
